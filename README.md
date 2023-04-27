@@ -1,2 +1,1 @@
-# Travel-App
-It is a city search and sightseeing app
+# It is a client part of sightseeing search app that developed with using Next.js
